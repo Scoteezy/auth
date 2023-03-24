@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "baseUrl" : "src"
+    },
+        "include": ["src", "src/firebase.jse.jssrc/firebase.jsebase.js"]
+}
